@@ -28,29 +28,3 @@ npm run dev
 # open http://localhost:5173
 ```
 
----
-
-## Build for GitHub Pages
-
-The Vite config is set to output into `docs/` (suitable for GitHub Pages):
-
-```bash
-npm run build
-# build artifacts in docs/
-```
-
-On GitHub:
-
-1. Push this repo.
-2. Go to **Settings → Pages**.
-3. Source: `Deploy from a branch`.
-4. Branch: `main`, Folder: `/docs`.
-5. Save.
-
-Your console will be live at:
-
-```text
-https://<your-username>.github.io/<repo-name>/
-```
-
----
