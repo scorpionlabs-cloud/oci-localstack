@@ -28,3 +28,4 @@ npm run dev
 # open http://localhost:5173
 ```
 
+Github Pages - https://scorpionlabs-cloud.github.io/oci-localstack/
