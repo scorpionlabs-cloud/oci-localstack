@@ -1,5 +1,5 @@
 
-# OCI LocalStack UI (Frontend-only, GitHub Pages-ready)
+# OCI LocalStack UI (Frontend-only)
 
 This project is a **React-only mock of the OCI Console** that runs entirely in your browser:
 
