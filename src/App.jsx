@@ -188,7 +188,7 @@ export default function App() {
     <div className={`oci-app ${theme === "dark" ? "oci-app-dark" : ""}`}>
       <div className="oci-topbar">
         <div className="oci-topbar-left">
-          <div className="oci-oracle-logo">ORACLE</div>
+          <div className="oci-oracle-logo">OCI</div>
           <div className="oci-topbar-title">Cloud Console (LocalStack UI)</div>
           <div className="oci-topbar-divider" />
           <div style={{ fontSize: 12 }}>Tenancy: mock-tenancy (browser)</div>
